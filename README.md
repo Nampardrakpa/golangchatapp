@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time Chat App
 
 Welcome to the Real-Time Chat App! This application allows users to create accounts, update account details, delete accounts, authenticate users, create and join chat rooms, and engage in real-time chatting without the need to refresh the page. The project is built using Next.js, TypeScript, MongoDB with migrations, Tailwind CSS, and Golang with WebSockets, concurrency, and tokenization.
@@ -61,6 +62,9 @@ Open your browser and navigate to http://localhost:3000.
 Contributions to this project are welcome! If you find any bugs or want to add new features, please feel free to create issues or pull requests.
 
 ### This is a Golang chat App that I built.
+=======
+# This is a Golang chat App that I built.
+>>>>>>> 87a83a6e8b3ef767f95c08b380982e6e635c3dc6
 This was built based on david hwang's own golang chat app.
 
 https://www.youtube.com/watch?v=W9SuX9c40s8
